@@ -1,0 +1,42 @@
+[
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/65/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/65/000000/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/65/000000/javascript--v1.png"
+    },
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/65/000000/java-coffee-cup-logo--v1.png"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/65/000000/python--v1.png"
+    },
+    {
+        "name": "SQL",
+        "icon": "https://img.icons8.com/?size=65&id=Lk9yC4HS5r3p&format=png&color=000000"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/65/ffffff/github.png"
+    },
+    {
+        "name": "Selenium",
+        "icon": "https://img.icons8.com/?size=65&id=38553&format=png&color=000000"
+    } ,
+    {
+        "name": "Jira",
+        "icon": "https://img.icons8.com/?size=65&id=oROcPah5ues6&format=png&color=000000"
+    },
+    {
+        "name": "Figma",
+        "icon": "https://img.icons8.com/?size=65&id=zfHRZ6i1Wg0U&format=png&color=000000"
+    } 
+]

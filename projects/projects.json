@@ -1,0 +1,42 @@
+[
+  {
+    "name": "To-Do List",
+    "desc": "A To-Do List is a simple yet powerful tool designed to help users organize tasks, track progress, and boost productivity. Built using HTML, CSS and JavaScript",
+    "image": "todolistimage",
+    "category": "todo",
+    "links": {
+      "view": "https://to-do-list-mu-azure.vercel.app/",
+      "code": "https://github.com/iamjayeshms/To-Do-list"
+    }
+  },
+  {
+    "name": "Scribble",
+    "desc": "Scribble is a fun and interactive drawing web app that lets you sketch, doodle, and create freely—anytime, anywhere! Built using HTML, CSS and JavaScript. ",
+    "image": "scribbleimage",
+    "category": "scri",
+    "links": {
+      "view": "https://scribbleitout.vercel.app/",
+      "code": "https://github.com/iamjayeshms/scribble"
+    }
+  },
+  {
+    "name": "E-commerece website",
+    "desc": "It is your go-to online fashion store for the latest and trendiest dresses that suit every occasion Built using HTML, CSS and JavaScript",
+    "image": "ecommerce website",
+    "category": "ecom",
+    "links": {
+      "view": "https://jayeshms.neocities.org/",
+      "code": ""
+    }
+  },
+  {
+    "name": "Weatherly Android",
+    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
+    "image": "weatherlyandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/weatherly-android"
+    }
+  }
+]
